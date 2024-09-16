@@ -33,10 +33,10 @@
   "voices": [
     "HumanFemale3"
   ],
-  "randomMinHeight": 1.6,
-  "randomMaxHeight": 1.75,
-  "adjustHeightToPlayer": true,
-  "adjustHeightToPlayerDelta": 0.05,
+  "randomMinHeight": 1.82,
+  "randomMaxHeight": 2.05,
+  "adjustHeightToPlayer": false,
+  "adjustHeightToPlayerDelta": 0.0,
   "possesionScaling": "ScaleCreature",
   "hairColors": [
     {
@@ -401,7 +401,7 @@
         "bodyAttackDamagerID": null,
         "sliceParentEffectid": "SliceFleshParent",
         "sliceChildEffectId": "SliceFleshChild",
-        "damageMultiplier": 2.0,
+        "damageMultiplier": 2.5,
         "penetrationPierceDeepDepth": 0.04,
         "penetrationPierceDeepDamageMultiplier": 4.0,
         "penetrationSlashDamageMultiplier": 2.0,
@@ -419,7 +419,7 @@
         "bodyAttackDamagerID": null,
         "sliceParentEffectid": "SliceFleshParent",
         "sliceChildEffectId": "SliceFleshChild",
-        "damageMultiplier": 1.0,
+        "damageMultiplier": 1.5,
         "penetrationPierceDeepDepth": 0.02,
         "penetrationPierceDeepDamageMultiplier": 4.0,
         "penetrationSlashDamageMultiplier": 10.0,
@@ -491,7 +491,7 @@
         "bodyAttackDamagerID": null,
         "sliceParentEffectid": "SliceFleshParent",
         "sliceChildEffectId": "SliceFleshChild",
-        "damageMultiplier": 0.5,
+        "damageMultiplier": 0.7,
         "penetrationPierceDeepDepth": 0.1,
         "penetrationPierceDeepDamageMultiplier": 0.5,
         "penetrationSlashDamageMultiplier": 0.5,
