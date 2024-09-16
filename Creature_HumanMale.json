@@ -35,7 +35,7 @@
   ],
   "randomMinHeight": 2.05,
   "randomMaxHeight": 2.30,
-  "adjustHeightToPlayer": true,
+  "adjustHeightToPlayer": false,
   "adjustHeightToPlayerDelta": 0.05,
   "possesionScaling": "ScaleCreature",
   "hairColors": [
